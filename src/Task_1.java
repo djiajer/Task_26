@@ -48,5 +48,6 @@ public class Task_1 {
         System.out.println("Max length: " + maxLength + "\nMax line: " + maxLine);
         return maxLength;
     }
-
 }
+
+
